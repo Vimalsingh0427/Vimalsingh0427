@@ -22,18 +22,18 @@
 
 📝 I regularly solve problems on <a href="https://leetcode.com/u/VimalSingh27/">LeetCode</a><br><br>
 
-💬 Ask me about JavaScript, React, GSAP, C++ and Web Development<br><br>
+💬 Ask me about Cloud & Devops <br><br>
 
 📫 Reach me at <a href="mailto:singhvimal7007@gmail.com">singhvimal7007@gmail.com</a><br><br>
 
-📄 Know more about my experience on <a href="https://www.linkedin.com/in/vimal-singh/">LinkedIn</a>
+📄 Know more about my experience on <a href="githttps://www.linkedin.com/in/vimal-singh-016965322?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
 
 ---
 
 ## 🌐 Socials:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adityasingh0824/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="githttps://www.linkedin.com/in/vimal-singh-016965322?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/VimalSingh27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=Java,c,html,css,git,github,vscode" />
 </p>
 
 
